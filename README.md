@@ -124,5 +124,5 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 **Course**: CS 530 - Artificial Intelligence  
-**Institution**: [Your University]  
-**Academic Year**: [Year]
+**Institution**: UAH  
+**Academic Year**: 2023
